@@ -10,6 +10,7 @@ namespace QueryIt
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
